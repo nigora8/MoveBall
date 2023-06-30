@@ -1,0 +1,23 @@
+#ball {
+    z-index: 5;
+    position: absolute;
+    left: 0 px;
+    top: 400px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: aqua;
+
+}
+
+#ball2 {
+    z-index: 7;
+    position: absolute;
+    left: 100 px;
+    top: 800px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #ff6a8f;
+
+}
